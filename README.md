@@ -19,10 +19,13 @@ Using data from the property-selling site Zillow, I calculated the best investme
 After all the necessary libraries were imported and the data loaded to a pandas dataframe, the next step is to create a separate dataframe solely for the properties in the New York Metropolitan area, to be used for the local properties analysis.
 
 ### Step 2: Preprocessing the Data
+I then converted the date column to  date/time format, counted and disposed of null values, and determined the number of properties per zip code.
 
 ### Step 3: EDA & Visualization
+Before visualizing our data, I needed to explore the data and calculate the percent change in each zip code. Each of these percent changes were saved as data frames, and the five largest percent changes in the positive and negative ends of local and national categories were plotted as line graphs.
 
 ### Step 4: Reshaping the Dataframe
+Reshaping the data frame is required 
 
 ### Step 5: ARIMA Modeling
 
