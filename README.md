@@ -25,9 +25,10 @@ I then converted the date column to  date/time format, counted and disposed of n
 Before visualizing our data, I needed to explore the data and calculate the percent change in each zip code. Each of these percent changes were saved as data frames, and the five largest percent changes in the positive and negative ends of local and national categories were plotted as line graphs.
 
 ### Step 4: Reshaping the Dataframe
-Reshaping the data frame is required 
+Reshaping the data frame is required when preforming a time series analysis. In this process, the dates become the vertical axis, while the the values (in this case, the values of each zip code) also becomes a singular column rather than a row. After this, we can proceed with our ARIMA modeling.
 
 ### Step 5: ARIMA Modeling
+The first step in ARIMA modeling is to test for stationarity. This allows us to see the growth or decline in value irrespective of time. Then the optimum values of the AR order, the degree of differencing, and the MA order are calculated in order to create the best ARIMA model for the data. The output of the model can then be plotted for diagnotics. 
 
 ### Conclusion
 The top five zip codes for each investment category are as follows:
