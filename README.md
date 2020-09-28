@@ -1,6 +1,10 @@
 
 # Diverse Real Estate Investing
 
+Analyst: Shannon McChesney
+Tableau Presentation: https://public.tableau.com/views/DiverseRealEstateInvestingStory/DiverseRealEstateInvestment?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
+Blog Post: https://samcches.github.io/diverse_real_estate_investing
+
 ## Introduction
 
 Everyone has different needs, just as they have different experiences and different lifestyles. In the same vein, every investment portfolio should be unique to the needs of the investor. Some feel a great deal of pride investing in locally, while for others location is not important. Those looking for solid, proven investments that continue to grow will look for the equivalents of Apple and Google to place their money, while those who find excitement in uncovering investments that have more potential will search for opportunities than have yet to show their greatest growth.
